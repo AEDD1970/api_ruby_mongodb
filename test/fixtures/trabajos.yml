@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  estado_laboral: MyString
+  empresa: MyString
+  naturaleza: MyString
+  cargo: MyString
+  ciudad: MyString
+  fecha_actulizacion: 2020-02-23 10:41:07
+  confirmacion: MyString
+  observacion: MyString
+
+two:
+  estado_laboral: MyString
+  empresa: MyString
+  naturaleza: MyString
+  cargo: MyString
+  ciudad: MyString
+  fecha_actulizacion: 2020-02-23 10:41:07
+  confirmacion: MyString
+  observacion: MyString

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  diploma: MyString
+  resolucion: MyString
+  fecha_grado: 2020-02-23 10:40:56
+
+two:
+  diploma: MyString
+  resolucion: MyString
+  fecha_grado: 2020-02-23 10:40:56
